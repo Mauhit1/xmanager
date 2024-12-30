@@ -1,4 +1,4 @@
-# XManager: A framework for managing machine learning experiments 🧑‍🔬
+# ---runn>XManager: A framework for managing machine learning experiments 🧑‍🔬
 
 <!-- Note that links in README.md have to be absolute as it also lands on PyPI. -->
 
@@ -361,5 +361,4 @@ identifier. For example, you can call your jobs 'agent' and 'observer'.
 agent_job = xm.Job(...)
 observer_job = xm.Job(...)
 
-xm.JobGroup(agent=agent_job, observer=observer_job)
-```
+xm.JobGroup(agent=agent_job, observer=observer_job)>@mauhit1,@maunew,@toolmauryy
