@@ -361,4 +361,4 @@ identifier. For example, you can call your jobs 'agent' and 'observer'.
 agent_job = xm.Job(...)
 observer_job = xm.Job(...)
 
-xm.JobGroup(agent=agent_job, observer=observer_job)>@mauhit1,@maunew,@toolmauryy
+xm.JobGroup(agent=agent_job, observer=observer_job)>@mauhit1,@maunew,@toolmauryy=disable
